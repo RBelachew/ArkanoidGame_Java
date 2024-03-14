@@ -1,4 +1,3 @@
-//ID: 324488287
 /**
  * The HitNotifier interface indicates that objects that implement it send notifications when they are being hit.
  */
