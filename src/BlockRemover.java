@@ -1,4 +1,3 @@
-//ID: 324488287
 /**
  * A BlockRemover is in charge of removing blocks from the game, as well as keeping count
  * of the number of blocks that remain.
