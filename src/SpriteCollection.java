@@ -1,4 +1,3 @@
-//ID: 324488287
 import biuoop.DrawSurface;
 
 import java.util.ArrayList;
