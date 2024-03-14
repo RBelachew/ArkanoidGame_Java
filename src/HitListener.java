@@ -1,4 +1,3 @@
-//ID: 324488287
 /**
  * Objects that want to be notified of hit events, should implement the HitListener interface.
  */
