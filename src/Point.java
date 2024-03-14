@@ -1,4 +1,3 @@
-//ID: 324488287
 /**
  * A point has an x and a y value, and can measure the distance to other points, and if it is equal to another point.
  */
