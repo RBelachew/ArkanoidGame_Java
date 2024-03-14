@@ -1,4 +1,3 @@
-//ID: 324488287
 /**
  * Value of the scores counter is updated by the ScoreTrackingListener.
  */
