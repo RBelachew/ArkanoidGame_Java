@@ -1,4 +1,3 @@
-//ID: 324488287
 /**
  * The Collidable interface will be used by things that can be collided with.
  *
