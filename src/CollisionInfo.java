@@ -1,4 +1,3 @@
-//ID: 324488287
 /**
  * The CollisionInfo class holds the following information about collision point and collision object.
  */
