@@ -1,4 +1,3 @@
-//ID: 324488287
 /**
  * BallRemover is a HitListener that will be in charge of removing balls, and updating an available-balls counter.
  *
