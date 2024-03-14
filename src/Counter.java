@@ -1,4 +1,3 @@
-//ID: 324488287
 /**
  * Counter is a simple class that is used for counting things.
  */
